@@ -1,1 +1,2 @@
-# jogo-de-carrinho
+# synchronousBallMovement
+Ball moving synchronously
